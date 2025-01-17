@@ -10,7 +10,7 @@ const About = () => {
         <h2 className='about-subtitle'>São Paulo</h2>
         <p className='about-text'>
           Little Lemon is owned by two Italian brothers, Carlos and Italo, who
-          moved to the United States to pursue their shared dream of owning a
+          moved to the Brazil to pursue their shared dream of owning a
           restaurant. <br />
           <br />
           To craft the menu, Carlos relies on family recipes and his experience
