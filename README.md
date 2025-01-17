@@ -16,13 +16,14 @@ A table-booking system using React. It's a fully responsive web app that allows 
 
 ### Screenshot
 
-![restaurantBookingSystem]()
-![restaurantBookingSystem]()
+![restaurantBookingSystem](src\assets\home.png)
+![restaurantBookingSystem](src\assets\make-reservation.png)
+![restaurantBookingSystem](src\assets\reservation-confirmed.png)
 
 
 ### Links
 
-- Live : [Demo]()
+- Live : [Demo](https://little-lemon-website-eight.vercel.app/)
 
 ## My process
 

@@ -66,7 +66,7 @@ const Footer = () => {
             <br />
             São Paulo, São Paulo
             <br />
-            USA
+            BR
             <br />
             <br />
             <div className='contacts'>{contactLinks}</div>
